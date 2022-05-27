@@ -5,4 +5,5 @@ TÓPICOS APRENDIDOS- condicionais, funções, introdução a eventos, exercicio 
 
 MDN Web Docs: https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/
 
-![galeria](https://user-images.githubusercontent.com/8356862/170791716-5564b35c-866d-41ca-9ffc-968780a9a5d7.gif)
+![galeria](https://user-images.githubusercontent.com/8356862/170791833-0e7b10db-6cb3-4e80-b055-2254d3859829.gif)
+
